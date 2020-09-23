@@ -14,10 +14,12 @@ author: Sujeet Shrestha
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About/Contact: "About/Contact"
+  About/Contact: "About me"
   Research:
     - Publication: "https://sujeetshrestha.github.io/Research"
-    - Tutorial: "https://sujeetshrestha.github.io/Tutorial"
+    - Linear Algebra: "https://sujeetshrestha.github.io/Linear Algebra"
+    - Machine Learning: "https://sujeetshrestha.github.io/Machine Learning"
+    - Deep Learning: "https://sujeetshrestha.github.io/Deep Learning"
   Home: "https://sujeetshrestha.github.io"
 
 # --- Logo --- #
