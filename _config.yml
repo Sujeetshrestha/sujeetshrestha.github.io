@@ -16,10 +16,13 @@ author: Sujeet Shrestha
 navbar-links:
   About/Contact: "About me"
   Research:
-    - Publication: "https://sujeetshrestha.github.io/Research"
-    - Linear Algebra: "https://sujeetshrestha.github.io/Linear Algebra"
-    - Machine Learning: "https://sujeetshrestha.github.io/Machine Learning"
-    - Deep Learning: "https://sujeetshrestha.github.io/Deep Learning"
+    - Publication: "https://sujeetshrestha.github.io/research"
+    - Linear Algebra: "https://sujeetshrestha.github.io/linearalgebra"
+    - Machine Learning: "https://sujeetshrestha.github.io/machinelearning"
+    - Probabilistic Machine Learning: "https://sujeetshrestha.github.io/probabilisticmachinelearning"
+    - Advance Machine Learning: "https://sujeetshrestha.github.io/advancemachinelearning"
+    - Deep Learning: "https://sujeetshrestha.github.io/deeplearning"
+    - Deep Reinforcement Learning: "https://sujeetshrestha.github.io/deepreinforcementlearning"
   Home: "https://sujeetshrestha.github.io"
 
 # --- Logo --- #
