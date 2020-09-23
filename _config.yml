@@ -15,9 +15,9 @@ author: sujeetshrestha.github.io
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Research: "https://beautifuljekyll.com"
-    - Tutorial: "https://www.markdowntutorial.com/"
+  Research:
+    - Publication: "https://sujeetshrestha.github.io/Research/"
+    - Tutorial: "https://sujeetshrestha.github.io/Tutorials/"
   Author's home: "https://sujeetshrestha.github.io/"
 
 # --- Logo --- #
