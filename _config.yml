@@ -14,7 +14,7 @@ author: Sujeet Shrestha
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About/Contact: "aboutme"
   Research:
     - Publication: "https://sujeetshrestha.github.io/Research"
     - Tutorial: "https://sujeetshrestha.github.io/Tutorial"
