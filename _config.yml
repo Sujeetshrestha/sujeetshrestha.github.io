@@ -14,11 +14,11 @@ author: Sujeet Shrestha
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About/Contact: "aboutme"
+  About/Contact: "About/Contact"
   Research:
     - Publication: "https://sujeetshrestha.github.io/Research"
     - Tutorial: "https://sujeetshrestha.github.io/Tutorial"
-  Author's home: "https://sujeetshrestha.github.io"
+  Home: "https://sujeetshrestha.github.io"
 
 # --- Logo --- #
 
